@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Data Structures and Algorithms Fall 2023
+description: Data Structures and Algorithms Course @ Sharif University of Technology
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://dsacourse.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
